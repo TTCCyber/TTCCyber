@@ -5,7 +5,7 @@
 - <b>Offensive Lab</b>
   - [APR spoofing](https://github.com/TTCCyber/github-portfolio/blob/main/Offensive%20Lab/ARP%20spoofing.md)
 - <b>TryHackMe SOC Lv 1</b>
-  - (https://github.com/TTCCyber/github-portfolio/blob/main/Yara%20%5BTryHackMe%5D) 
+  - [YARA] (https://github.com/TTCCyber/github-portfolio/blob/main/Yara%20%5BTryHackMe%5D) 
 
 
 <h2> 🤳 Connect with me:</h2>
